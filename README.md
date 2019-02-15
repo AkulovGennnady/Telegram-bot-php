@@ -10,7 +10,8 @@ It also send automatically daily profit to each user on demand through payment g
 /HBOT/DB/ - Database class and settings are located here.
 Main part of the bot and classed are located in /HBOT/TelegramSpecial/
 
-To use this bot you need at least a fast and reliable hosting, or VPS.
+To use this bot you need at least a fast and reliable hosting, or VPS.  
+
 Then, load all the files to the parent directory. 
 You need PHP 7 and MySQL.
 Create a new telegram bot and set a new token.
