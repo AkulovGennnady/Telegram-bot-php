@@ -1,8 +1,8 @@
 ### Telegram-bot-php
-This is my first project. 
-I developed this bot for 3 month, starting with no knoledge about PHP, MySQL and Telegram API.
-This telegram bot was written using only PHP7 and MySQL, it comunicates with Telegram via its API and with payment systems using their API.
-
+This is my first project.  
+I developed this bot for 3 month, starting with no knoledge about PHP, MySQL and Telegram API. 
+This telegram bot was written using only PHP7 and MySQL, it comunicates with Telegram via its API and with payment systems using their  API. 
+ 
 Telegram bot creates account of a new user, accepts payments in Bitcoin (APIBTC) and electronic USD via several payment systems (payeer,   adv cash, perfect money) and create a new deposit for each user.   
 Then it calculated estimated profit and put some amount on user account every day.  
 /HBOT/Count/AddPers.php - here the amount is calculated by cron tab.  
